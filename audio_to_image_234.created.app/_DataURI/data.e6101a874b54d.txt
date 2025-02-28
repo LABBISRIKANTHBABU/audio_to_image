@@ -1,0 +1,1 @@
+chrome-extension://mcgbeeipkmelnpldkobichboakdfaeon/content-ui/index.iife.js
